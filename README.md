@@ -6,8 +6,8 @@
 - 🚀 I'm currently diving into the world of **Software Engineering and Artificial Intelligence**.  
 - 🤝 I’m looking to collaborate on open-source projects with positive impact.  
 - 🆘 I’m currently working hard at advancing my skills in **Leetcode**
-- 💬 Ask me about Leetcode, LLMs, philosphy, or my faith in Jesus Christ.  
-- ⚡ Fun fact: I love coding and working out - and can even bench over 400LBS!
+- 💬 Ask me about Leetcode, LLMs, philosphy, evidence for God's existence, or my faith in Jesus Christ.  
+- ⚡ Fun fact: I love coding and working out - and can even bench over 415LBS for reps!
 
 <!-- Social links -->
 ## 🌐 Socials
