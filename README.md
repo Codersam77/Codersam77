@@ -7,7 +7,8 @@
 - 🤝 I’m looking to collaborate on open-source projects with positive impact.  
 - 🆘 I’m currently working hard at advancing my skills in **Leetcode** which I really enjoy!!!
 - 💬 Ask me about Leetcode, LLMs, philosphy, evidence for God's existence, or my faith in Jesus Christ.  
-- ⚡ Fun fact: I love problem solving, coding, and working out!
+- ⚡ Fun fact: I love problem solving, coding, reading and working out!
+- ⚡ Favorite Books: Holy Bible, Outwitting the Devil by Napoleon Hill, Rich Dad Poor Dad by Robert Kiosawki, The Power of Habit by Charles Duhigg, Deep Work by Cal Newport, From Darkness to Sight by Ming Wang, On Guard by William Lane Craig, The God Delusion by Richard Dawkins, and The Meaning of Marriage by Tim Keller 
 
 <!-- Social links -->
 ## 🌐 Socials
